@@ -13,9 +13,9 @@
     "react-dom": "^18.2.0",
     "react-highlight-words": "^0.20.0",
     "react-router-dom": "^6.15.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^0.0.0",
     "react-table": "^7.8.0",
-    "sp-rest-proxy": "^3.3.6",
+    "sp-rest-proxy": "^2.7.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
