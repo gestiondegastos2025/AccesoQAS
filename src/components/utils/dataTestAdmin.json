@@ -1,0 +1,93 @@
+[
+    {
+      "key": "1",
+      "id": "1001",
+      "tituloIncidencia": "Problema con el inicio de sesión",
+      "fechaCreacion": "12/07/2024",
+      "entidad": "Departamento de TI",
+      "descripcionDelProblema": "El usuario no puede iniciar sesión en el sistema SAP.",
+      "prioridad": "Alta",
+      "estadoTicket": "Revisión TI",
+      "feedbackAlUsuario": "En proceso de revisión",
+      "resolutor": "Juan Pérez",
+      "modulo": "FI",
+      "fechaResolucion": "15/07/2024",
+      "archivosAdjuntos": "file1.pdf"
+    },
+    {
+      "key": "2",
+      "id": "1002",
+      "tituloIncidencia": "Error en la carga de datos",
+      "fechaCreacion": "10/07/2024",
+      "entidad": "Recursos Humanos",
+      "descripcionDelProblema": "El sistema muestra un error al intentar cargar los datos de nómina.",
+      "prioridad": "Media",
+      "estadoTicket": "Resuelto",
+      "feedbackAlUsuario": "Problema resuelto, por favor verifique.",
+      "resolutor": "María López",
+      "modulo": "HCM",
+      "fechaResolucion": "12/07/2024",
+      "archivosAdjuntos": "file2.pdf"
+    },
+    {
+      "key": "3",
+      "id": "1003",
+      "tituloIncidencia": "Solicitud de cambio de contraseña",
+      "fechaCreacion": "08/07/2024",
+      "entidad": "Departamento de TI",
+      "descripcionDelProblema": "El usuario solicita un cambio de contraseña.",
+      "prioridad": "Baja",
+      "estadoTicket": "Cerrado",
+      "feedbackAlUsuario": "Contraseña actualizada correctamente.",
+      "resolutor": "Carlos Ruiz",
+      "modulo": "Basis",
+      "fechaResolucion": "09/07/2024",
+      "archivosAdjuntos": "file3.pdf"
+    },
+    {
+        "key": "4",
+        "id": "1003",
+        "tituloIncidencia": "Solicitud de cambio de contraseña",
+        "fechaCreacion": "08/07/2024",
+        "entidad": "Departamento de TI",
+        "descripcionDelProblema": "El usuario solicita un cambio de contraseña.",
+        "prioridad": "Baja",
+        "estadoTicket": "Cerrado",
+        "feedbackAlUsuario": "Contraseña actualizada correctamente.",
+        "resolutor": "Carlos Ruiz",
+        "modulo": "Basis",
+        "fechaResolucion": "09/07/2024",
+        "archivosAdjuntos": "file3.pdf"
+      }
+      ,    {
+        "key": "5",
+        "id": "1003",
+        "tituloIncidencia": "Solicitud de cambio de contraseña",
+        "fechaCreacion": "08/07/2024",
+        "entidad": "Departamento de TI",
+        "descripcionDelProblema": "El usuario solicita un cambio de contraseña.",
+        "prioridad": "Baja",
+        "estadoTicket": "Cerrado",
+        "feedbackAlUsuario": "Contraseña actualizada correctamente.",
+        "resolutor": "Carlos Ruiz",
+        "modulo": "Basis",
+        "fechaResolucion": "09/07/2024",
+        "archivosAdjuntos": "file3.pdf"
+      },
+      {
+        "key": "6",
+        "id": "1003",
+        "tituloIncidencia": "Solicitud de cambio de contraseña",
+        "fechaCreacion": "08/07/2024",
+        "entidad": "Departamento de TI",
+        "descripcionDelProblema": "El usuario solicita un cambio de contraseña.",
+        "prioridad": "Baja",
+        "estadoTicket": "Cerrado",
+        "feedbackAlUsuario": "Contraseña actualizada correctamente.",
+        "resolutor": "Carlos Ruiz",
+        "modulo": "Basis",
+        "fechaResolucion": "09/07/2024",
+        "archivosAdjuntos": "file3.pdf"
+      }
+  ]
+  

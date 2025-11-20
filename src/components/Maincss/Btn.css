@@ -1,0 +1,39 @@
+/* Estilos para el botón default */
+:where(.css-djtmh8).ant-btn-default {
+    background-color: #e10e17;
+    color: rgba(255, 255, 255, 0.884);
+    font-size: 15px;
+  }
+  
+  /* Estilos para el botón primario en hover */
+  :where(.css-djtmh8).ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover {
+    background-color: rgb(190, 69, 75);
+  }
+
+  :where(.css-djtmh8).ant-btn-default {
+    background-color: #e10e17;
+    color: #fff;
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.02);
+}
+  
+  /* Estilos para el botón predeterminado en hover */
+  :where(.css-djtmh8).ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover {
+    color: #fff;
+    border-color: #e10e17;
+    background-color: rgb(190, 69, 75);
+  }
+
+  /* Estilos para el botón primario */
+:where(.css-djtmh8).ant-btn-primary {
+    background-color: #e10e17;
+  }
+  
+  /* Estilos para el botón primario en hover */
+  :where(.css-djtmh8).ant-btn-primary:not(:disabled):not(.ant-btn-disabled):hover {
+    background-color: rgb(190, 69, 75);
+  }
+
+  .btn-databank{
+    margin: 0 8px;
+    margin-top: 5px;
+  }

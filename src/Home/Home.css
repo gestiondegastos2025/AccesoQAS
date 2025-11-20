@@ -1,0 +1,45 @@
+.imgUandes {
+    background-image: url("../assets/corporativos-2.png");
+    background-size: 50px 50px; /* Tamaño de la imagen */
+    background-position: center; /* Centra la imagen verticalmente */
+    width: 50px; /* Ancho del contenedor */
+    height: 50px; /* Altura del contenedor */
+    display: inline-block; /* Para que el contenedor sea del mismo tamaño que el texto */
+    vertical-align: middle; /* Centra verticalmente con el texto */
+    margin-right: 20px; /* Espacio entre la imagen y el texto (ajusta según sea necesario) */
+    float: left; /* Alinea imgUandes a la izquierda */
+  }
+
+  :where(.css-djtmh8).ant-steps.ant-steps-inline .ant-steps-item-active .ant-steps-item-container .ant-steps-item-content .ant-steps-item-title, :where(.css-djtmh8).ant-steps.ant-steps-inline .ant-steps-item-process .ant-steps-item-container .ant-steps-item-content .ant-steps-item-title {
+    color: #e10e17;
+}
+
+:where(.css-djtmh8).ant-steps .ant-steps-item-process .ant-steps-item-icon >.ant-steps-icon .ant-steps-icon-dot {
+  background: red;
+}
+
+:where(.css-djtmh8).ant-table-wrapper .ant-table-pagination.ant-pagination {
+  margin: 16px 0;
+  display: none;
+}
+
+/* Estilos para dispositivos móviles con un ancho máximo de 767px */
+@media (max-width: 767px) {
+  .custom-steps .ant-steps-item-content .ant-steps-item-title {
+    overflow-x: auto;
+  }
+}
+
+/* Estilos para dispositivos móviles con un ancho máximo de 767px */
+@media (max-width: 653px) {
+  .custom-steps .ant-steps-item-content .ant-steps-item-title {
+    overflow-x: auto;
+  }
+}
+
+/* En tu archivo CSS o dentro de tu componente */
+@media screen and (min-width: 768px) {
+  .hide-on-desktop {
+    display: none;
+  }
+}

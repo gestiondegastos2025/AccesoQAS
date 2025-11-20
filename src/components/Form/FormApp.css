@@ -1,0 +1,56 @@
+/* FormApp.css */
+
+/* Estilos para el icono del paso en proceso */
+:where(.css-djtmh8).ant-steps .ant-steps-item-process .ant-steps-item-icon {
+  background-color: #e10e17;
+  border-color: #e10e17;
+}
+
+/* Estilos para el icono del paso completado */
+:where(.css-djtmh8).ant-steps .ant-steps-item-finish .ant-steps-item-icon > .ant-steps-icon {
+  color: #e10e17;
+}
+
+/* Estilos para el fondo del paso completado */
+:where(.css-djtmh8).ant-steps .ant-steps-item-finish .ant-steps-item-icon {
+  background-color: rgb(250, 240, 230);
+  border-color: red;
+}
+
+/* Estilos para el indicador de título del paso completado */
+:where(.css-djtmh8).ant-steps .ant-steps-item-finish > .ant-steps-item-container > .ant-steps-item-content > .ant-steps-item-title::after {
+  background-color: #e10e17;
+}
+
+:where(.css-djtmh8).ant-upload-wrapper .ant-upload-list .ant-upload-list-item:hover {
+  background-color: red;
+}
+
+:where(.css-djtmh8).ant-upload-wrapper .ant-upload-list .ant-upload-list-item{
+  background-color: #e10e17;
+  color: aliceblue;
+}
+
+:where(.css-djtmh8).ant-upload-wrapper .ant-upload-list .ant-upload-list-item .ant-upload-icon .anticon {
+    color: ghostwhite;
+    font-size: 16px;
+}
+
+:where(.css-djtmh8).ant-upload-wrapper .ant-upload-list .ant-upload-list-item .ant-upload-list-item-actions .anticon {
+  color: white;
+  transition: all 0.3s;
+}
+
+:where(.css-djtmh8).ant-menu-dark.ant-menu-horizontal >.ant-menu-item-selected, :where(.css-djtmh8).ant-menu-dark>.ant-menu.ant-menu-horizontal >.ant-menu-item-selected, :where(.css-djtmh8).ant-menu-dark.ant-menu-horizontal >.ant-menu-submenu-selected, :where(.css-djtmh8).ant-menu-dark>.ant-menu.ant-menu-horizontal >.ant-menu-submenu-selected {
+  color: #fff;
+  background-color: #001529;
+}
+
+:where(.css-djtmh8).ant-menu-dark.ant-menu-horizontal >.ant-menu-item-selected:hover, :where(.css-djtmh8).ant-menu-dark>.ant-menu.ant-menu-horizontal >.ant-menu-item-selected:hover, :where(.css-djtmh8).ant-menu-dark.ant-menu-horizontal >.ant-menu-submenu-selected:hover, :where(.css-djtmh8).ant-menu-dark>.ant-menu.ant-menu-horizontal >.ant-menu-submenu-selected:hover {
+  background-color: #001529;
+}
+
+:where(.css-djtmh8).ant-menu-dark, :where(.css-djtmh8).ant-menu-dark>.ant-menu {
+  color: rgba(255, 255, 255, 0.65);
+  background: #e10e17;
+}
